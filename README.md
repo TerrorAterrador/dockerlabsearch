@@ -1,5 +1,6 @@
 # [DockerlabSearch](https://dockerlabs.es)
 
+Herramienta en **bash** para hacer búsquedas sobre la página de [dockerlabs](https://dockerlabs.es), tiene las siguientes opciones:<br>
 - Mostrar este panel de ayuda <br>
 - Listar todas las máquinas disponibles <br>
 - Mostrar información de una máquina a partir de su nombre <br>
@@ -15,8 +16,25 @@
 
 ---
 
+### Listar todas las máqinas disponible (-a)
+
+![image](https://github.com/n0m3l4c000nt35/infosecmachines/assets/128630899/e85f4b86-17a4-45f1-941c-492ed4059800)
+
+
+---
+
+### Mostrar información sobre una máquina (-m)
+
+![image](https://github.com/n0m3l4c000nt35/infosecmachines/assets/128630899/e9115d5e-2c78-4285-96a3-18d35142ba98)
+
+---
+
 ### Descargar
 
 ```shell
 https://raw.githubusercontent.com/TerrorAterrador/dockerlabsearch/main/dockerlabsearch.sh
 ```
+
+##### Basado en:
+
+##### [Dockerlabs](https://dockerlabs.es) - [El Pinguino de Mario](https://www.youtube.com/@elpinguinodemario)
